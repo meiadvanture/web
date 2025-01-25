@@ -20,7 +20,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: $white;
   color: $dark-grey;
-  font-family: $Apercu;
+  // font-family: $Apercu;
+  font-family: $Garamond;
   line-height: 1.5;
   width: 100%;
 
@@ -113,7 +114,7 @@ strong {
     flex-shrink: 0;
     width: 200px;
     margin-right: 70px;
-    color: $blue;
+    color: $orange;
     text-transform: uppercase;
     text-align: right;
     font-weight: 700;

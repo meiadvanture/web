@@ -2,8 +2,8 @@
 name: Meishan Fan
 title: Meishan Fan 
 description: 
-url: 
-baseurl: ''
+url: "https://meiadvanture.github.io"
+baseurl: '/web'
 email: m.fan1027@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
